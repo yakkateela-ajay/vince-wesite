@@ -1,0 +1,21 @@
+.breadcrumb {
+    background-image: url(./assets/abc1.jpg);
+    background-color: rgb(197, 164, 31);
+    color: crimson;
+    opacity: 0.5;
+
+}
+
+.breadcrumb-item {
+    padding: 10px 0px 10px 0px;
+    font-size: 25px;
+    color: crimson;
+    position: relative;
+    padding-left: 100px;
+}
+
+@media (max-width:600px) {
+    .breadcrumb-item {
+        padding-left: 15px;
+    }
+}

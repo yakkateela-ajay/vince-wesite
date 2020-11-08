@@ -1,0 +1,59 @@
+.team {
+    font-size: 36px;
+    color: #555;
+    -webkit-flow-into: bold;
+    padding-top: 100px;
+
+
+}
+
+.team-work {
+    margin-bottom: 10%;
+}
+
+.name {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+}
+
+#team i {
+    font-size: 26px;
+    color: #555;
+}
+
+#team p {
+    font-weight: 500;
+}
+
+#team .card {
+    border-radius: 0;
+    box-shadow: 3px 3px 10px #e74c3c;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.5s ease-in;
+}
+
+#team .card:hover {
+    background: #e74c3c;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 3px 3px 10px #9e9e9e;
+}
+
+#team .card:hover h4,
+#team .card:hover i {
+    color: #fff;
+}
+
+.fa {
+    font-size: 30px;
+}
+
+.card-body div div a {
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    border: 10x salmon;
+
+}

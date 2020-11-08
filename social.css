@@ -1,0 +1,48 @@
+.social-links {
+    position: fixed;
+    top: 40%;
+    right: 20px;
+    transform: rotateY(-50%);
+    z-index: 9999;
+}
+
+.social-links ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+.social-links ul li {
+    list-style: none;
+}
+
+.social-links ul li a {
+
+    line-height: 50px;
+    font-size: 25px;
+
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+.social-links ul li a span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 50px;
+    color: #000;
+    background: #fff;
+    font-size: 15px;
+    z-index: 9999;
+    opacity: 0;
+    backface-visibility: hidden;
+    transition: 0.5s;
+}
+
+.social-links ul li:hover span {
+    opacity: 1;
+    backface-visibility: visible;
+    left: 50px;
+}

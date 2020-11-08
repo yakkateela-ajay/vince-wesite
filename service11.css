@@ -1,0 +1,46 @@
+.container-small {
+
+    margin: 50px 100px 40px 100px;
+}
+
+.text-center h3 {
+    margin-top: 10%;
+}
+
+.thumbnail-classic-caption hr {
+    width: 150px;
+    height: 1px;
+    background-color: #11db43;
+}
+
+.text-center h3 {
+    font-size: 40px;
+}
+
+.thumbnail-classic-title {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.thumbnail-classic {
+    margin-bottom: 50px;
+}
+
+.services-line {
+    width: 150px;
+    height: 1px;
+    background-color: #17b0f7;
+    margin-bottom: 50px;
+}
+
+.unit-left img {
+    height: 100px;
+    width: 130px;
+}
+
+@media (max-width:600px) {
+    .container-small {
+
+        margin: 50px 20px 40px 20px;
+    }
+}

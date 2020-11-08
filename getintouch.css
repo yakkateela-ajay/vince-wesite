@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Oxygen&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Barlow|Oxygen&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Baloo+2&display=swap");
+
+.bg-default {
+    font-family: "Barlow", sans-serif;
+}
+
+.block-img-decoration {
+    margin-top: 10%;
+}
+
+.questions {
+    font-size: 50px;
+    margin-bottom: 4%;
+}
+
+.animate-box p {
+    font-family: "Baloo 2", cursive;
+    font-size: 19px;
+}
+
+.button-block button {
+    height: 50px;
+    width: 150px;
+    border: #f05136;
+    background-color: #11db43;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+.button-block button a {
+    color: white;
+    font-size: 20px;
+}
+
+.button-block button a:hover {
+    text-decoration: none;
+}
+
+.button-block button:hover {
+    text-decoration: none;
+    background-color: #f05136;
+    transition: 0.5s ease;
+}
+
+@media (max-width: 600px) {
+    .block-img-decoration img {
+        width: 250px;
+        height: 400px;
+    }
+}

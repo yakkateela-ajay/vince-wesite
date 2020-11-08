@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|News+Cycle&display=swap');
+
+.theme-hover-bg {
+    background-color: white;
+
+    border: 1px solid rgba(233, 234, 236, 0.582);
+    position: relative;
+}
+
+.tech-img {
+    width: 150px;
+    height: 150px;
+    position: relative;
+
+}
+
+
+
+.gray-bg {
+    background-color: rgba(251, 252, 253, 0.753);
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.tech-head {
+
+    font-size: 10%;
+}
+
+.tech-sub-head {
+    padding-bottom: 60px;
+}
+
+.tech {
+    padding-bottom: 100px;
+
+}
+
+.tech-img {
+    margin: 10px;
+}

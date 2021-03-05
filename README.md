@@ -4,6 +4,7 @@ VINCE WEB SERVICE WEBSITE
   -- VINCE WEB SERVICES IS THE WEB DEVELOPEMENT AND DIGITAL MARKETING START-UP
   
   -- WEBSITE IS BUILT BY USING 
+       
         HTML
         
         CSS
@@ -11,6 +12,7 @@ VINCE WEB SERVICE WEBSITE
         BOOTSTRAP 4
         
         JAVASCRIPT 
+        Jquery
         
   
 Link to see :: https://vincewebservices.com

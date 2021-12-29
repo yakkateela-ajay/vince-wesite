@@ -15,4 +15,4 @@ VINCE WEB SERVICE WEBSITE
         Jquery
         
   
-Link to see :: https://vincewebservices.com
+Link to see :: https://yakkateela-ajay.github.io/vince-wesite/
